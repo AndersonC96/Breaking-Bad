@@ -1,6 +1,6 @@
 # Breaking Bad API
 
-React project that uses the [breaking bad api](https://breakingbadapi.com/documentation) to display and filter the characters in the series.
+React project that uses the [Breaking Bad API](https://breakingbadapi.com/documentation) to display and filter the characters in the series.
 
 ## Usage
 
