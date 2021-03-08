@@ -1,6 +1,6 @@
 # Breaking Bad API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React project that uses the Breaking Bad API to display and filter the characters in the series.
 
 ## Available Scripts
 
