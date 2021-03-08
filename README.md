@@ -4,11 +4,11 @@ React project that uses the Breaking Bad API to display and filter the character
 
 ## Usage
 
-# Install dependencies
+### Install dependencies
 npm install
 
-# Run app
+### Run app
 npm start
 
-# Build app
+### Build app
 npm run build
