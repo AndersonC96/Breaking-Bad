@@ -2,13 +2,19 @@
 
 React project that uses the [Breaking Bad API](https://breakingbadapi.com/documentation) to display and filter the characters in the series.
 
-## Usage
+# Usage
 
-### Install dependencies
+```
+# Install dependencies
 npm install
+```
 
-### Run app
+```
+# Run app
 npm start
+```
 
-### Build app
+```
+# Build app
 npm run build
+```
