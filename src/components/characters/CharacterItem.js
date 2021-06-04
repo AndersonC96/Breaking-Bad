@@ -27,9 +27,6 @@ const CharacterItem = ({ item }) => {
                     <li>
                         <strong>Occupation:</strong> {item.occupation[0]}, {item.occupation[1]}
                     </li>
-                    <li>
-                        <strong>Season:</strong> {item.appearance[0]}
-                    </li>
                 </ul>
         </div>
     </div>
