@@ -20,7 +20,6 @@ const App = () => {
     }, [query])
   return (
     <div className='container'>
-      <embed name="myMusic" loop="true" hidden="true" src="./src/music.mp3"></embed>
       <Header />
       <Search getQuery={(q) => setQuery(q)} />
       <CharacterGrid isLoading={isLoading} items={items} />
