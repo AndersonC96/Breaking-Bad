@@ -25,7 +25,7 @@ const CharacterItem = ({ item }) => {
                         <strong>Appearances:</strong> {item.category}
                     </li>
                     <li>
-                        <strong>Occupation:</strong> {item.occupation[0]}
+                        <strong>Occupation:</strong> {item.occupation[0]}/{item.occupation[1]}
                     </li>
                 </ul>
         </div>
